@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.zatursure.top/music/index.html</loc>
+    
+    <lastmod>2025-07-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.zatursure.top/posts/of-docs-loginban/</loc>
     
     <lastmod>2025-07-18</lastmod>
