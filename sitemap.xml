@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://blog.zatursure.top/essay/index.html</loc>
+    
+    <lastmod>2025-08-13</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://blog.zatursure.top/posts/javamc/</loc>
     
     <lastmod>2025-07-19</lastmod>
@@ -76,7 +85,7 @@
 
   <url>
     <loc>http://blog.zatursure.top/</loc>
-    <lastmod>2025-08-05</lastmod>
+    <lastmod>2025-08-13</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -84,28 +93,28 @@
   
   <url>
     <loc>http://blog.zatursure.top/tags/Minecraft/</loc>
-    <lastmod>2025-08-05</lastmod>
+    <lastmod>2025-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.zatursure.top/tags/%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2025-08-05</lastmod>
+    <lastmod>2025-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.zatursure.top/tags/OpenFrp/</loc>
-    <lastmod>2025-08-05</lastmod>
+    <lastmod>2025-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.zatursure.top/tags/%E5%86%85%E7%BD%91%E7%A9%BF%E9%80%8F/</loc>
-    <lastmod>2025-08-05</lastmod>
+    <lastmod>2025-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -114,14 +123,14 @@
   
   <url>
     <loc>http://blog.zatursure.top/categories/Minecraft%E5%BC%80%E6%9C%8D%E6%95%99%E7%A8%8B/</loc>
-    <lastmod>2025-08-05</lastmod>
+    <lastmod>2025-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>http://blog.zatursure.top/categories/OpenFrp%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98/</loc>
-    <lastmod>2025-08-05</lastmod>
+    <lastmod>2025-08-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
